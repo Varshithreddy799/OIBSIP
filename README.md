@@ -1,29 +1,3 @@
-# \# Oasis Infobyte Java Development Internship
-
-<<<<<<< HEAD
-# 
-
-# \## Completed Tasks
-
-# 
-
-# \### Mokshith\_Task2\_NumberGuessingGame
-
-# Java console application for number guessing.
-
-# 
-
-# \### Mokshith\_Task3\_ATMInterface
-
-# Java console application simulating ATM operations.
-
-# 
-
-# \## Author
-
-# Kanuganti Mokshith
-
-=======
 ## Intern Details
 
 **Name:** Kanuganti Mokshith
